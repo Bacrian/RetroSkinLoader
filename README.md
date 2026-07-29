@@ -35,10 +35,7 @@ RSL works using a pool of skins determined by an admin in a server (or in your m
 /rsl skin set hi
 ```
 
-### Isn't it a bit complicated?
-Absolutely, but hear me out, it works like a charm. It takes a while to get used to the commands, but it's really worth it, especially if you're playing with friends in offline servers.
-
-_Also... It's been a long time since I modded Minecraft so... I'll try making it easier to use on the long run._
+_Also... It's been a long time since I modded Minecraft so... I'll try making it easier to use on the long run if you find it a bit rough around the edges as of now..._
 
 
 ### Command list
