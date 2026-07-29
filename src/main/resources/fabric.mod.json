@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "retroskinloader",
+	"version": "${version}",
+	"name": "RetroSkinLoader",
+	"description": "A BTA mod for handling skins! Works on Singleplayer and Multiplayer.",
+	"authors": [
+		"Bacrian / @imbacrian"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"icon": "icon.png",
+	"license": "GPL-3.0-only",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"imbacrian.retroskinloader.RetroSkinLoader"
+		]
+	},
+	"mixins": [
+		"retroskinloader.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=${fabricloader}",
+		"minecraft": "*",
+		"java": ">=${java}"
+	},
+	"suggests": {
+		"modmenu": ">=${modmenu}"
+	}
+}

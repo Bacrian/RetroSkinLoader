@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "imbacrian.retroskinloader.mixin",
+  "plugin": "imbacrian.retroskinloader.mixin.RetroSkinLoaderMixinPlugin",
+  "compatibilityLevel": "JAVA_${java}",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [],
+  "client": [
+    "PacketHandlerClientMixin",
+    "GetSkinUrlThreadMixin"
+  ],
+  "server": [
+    "PlayerListMixin"
+  ]
+}

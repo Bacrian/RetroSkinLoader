@@ -1,0 +1,4 @@
+imbacrian.retroskinloader.transformer.patch.SkinManagerPatch
+imbacrian.retroskinloader.transformer.patch.SkinTexturePatch
+imbacrian.retroskinloader.transformer.patch.InterfacePatch
+imbacrian.retroskinloader.transformer.patch.RenderPatch
